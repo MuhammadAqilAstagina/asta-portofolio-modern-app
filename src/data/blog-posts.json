@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js 14",
+    "excerpt": "A comprehensive guide to building modern web applications with Next.js 14 and the App Router.",
+    "date": "2024-01-15",
+    "content": "Next.js 14 brings exciting new features like the App Router, Server Components, and improved performance. In this post, we explore how to get started with this powerful framework.\n\n## Why Next.js?\n\nNext.js provides an excellent developer experience with features like file-based routing, server-side rendering, and static site generation out of the box.\n\n## Setting Up\n\nStart by creating a new project with `create-next-app`. The CLI will walk you through the setup process.\n\n## The App Router\n\nThe App Router is the new default routing system that uses React Server Components for improved performance and simpler data fetching patterns.",
+    "tags": ["Next.js", "React", "Tutorial"]
+  },
+  {
+    "slug": "tailwind-css-best-practices",
+    "title": "Tailwind CSS Best Practices",
+    "excerpt": "Tips and tricks for writing maintainable and efficient Tailwind CSS code in production applications.",
+    "date": "2024-02-20",
+    "content": "Tailwind CSS has become the go-to CSS framework for modern web development. Here are some best practices to keep your code clean and maintainable.\n\n## Use Design Tokens\n\nLeverage CSS custom properties and Tailwind's configuration to create a consistent design system.\n\n## Component Patterns\n\nCreate reusable component patterns with Tailwind to avoid repetition and maintain consistency across your application.\n\n## Responsive Design\n\nTailwind makes responsive design easy with its mobile-first breakpoint system. Always start with mobile styles and add complexity for larger screens.",
+    "tags": ["CSS", "Tailwind", "Best Practices"]
+  },
+  {
+    "slug": "typescript-advanced-patterns",
+    "title": "Advanced TypeScript Patterns",
+    "excerpt": "Level up your TypeScript skills with advanced patterns for type safety and code organization.",
+    "date": "2024-03-10",
+    "content": "TypeScript offers powerful type system features that can make your code more robust and easier to maintain.\n\n## Generics\n\nGenerics allow you to write flexible, reusable code while maintaining type safety.\n\n## Discriminated Unions\n\nUse discriminated unions to create type-safe state machines and API response handling.\n\n## Template Literal Types\n\nTemplate literal types enable powerful string manipulation at the type level.",
+    "tags": ["TypeScript", "Programming", "Advanced"]
+  }
+]

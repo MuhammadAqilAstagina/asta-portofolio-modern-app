@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "weather-app",
+    "title": "Wetaher App",
+    "description": "Aplikasi cuaca menggunakan API Open-Meteo dan geocoding dengan tampilan yang responsive dan modern.",
+    "thumbnail": "/projects/weather-app.png",
+    "techStack": ["React", "JSX", "Tailwind CSS", "Vite", "API"],
+    "demoUrl": "https://weather-app-asta.vercel.app/",
+    "githubUrl": "https://github.com/MuhammadAqilAstagina/weather-app",
+    "featured": true
+  },
+  {
+    "slug": "mvp-talent-verification-reward-system",
+    "title": "Talent Verification Reward System",
+    "description": "Sebuah aplikasi web *Minimum Viable Product* (MVP) untuk mengirimkan data keterampilan, sertifikat, dan portofolio. Pengajuan yang disetujui akan memberikan poin  dan dapat ditukarkan dengan hadiah.",
+    "thumbnail": "/projects/talent-reward.png",
+    "techStack": ["React", "Node.js", "Full-Stack", "PostgreSQL"],
+    "demoUrl": "https://taskmanager.example.com",
+    "githubUrl": "https://github.com/MuhammadAqilAstagina/talent-verification-reward-system",
+    "featured": true
+  },
+  {
+    "slug": "mortgage-calculator",
+    "title": "A Mortgage Calculator",
+    "description": "aplikasi digital untuk menghitung cicilan KPR (Kredit Pemilikan Rumah), simulasi bunga pinjaman, dan total biaya bulanan secara instan.",
+    "thumbnail": "/projects/mortgage-calc.jpg",
+    "techStack": ["Javascript", "HTML", "CSS"],
+    "demoUrl": "https://mortgage-calculator-asta.vercel.app/",
+    "githubUrl": "https://github.com/MuhammadAqilAstagina/Mortgage_Calculator",
+    "featured": false
+  },
+
+  {
+    "slug": "mortgage-calculator",
+    "title": "A Mortgage Calculator",
+    "description": "aplikasi digital untuk menghitung cicilan KPR (Kredit Pemilikan Rumah), simulasi bunga pinjaman, dan total biaya bulanan secara instan.",
+    "thumbnail": "/projects/mortgage-calc.jpg",
+    "techStack": ["Javascript", "HTML", "CSS"],
+    "demoUrl": "https://api.example.com/docs",
+    "githubUrl": "https://github.com/MuhammadAqilAstagina/Mortgage_Calculator",
+    "featured": false
+  }
+]

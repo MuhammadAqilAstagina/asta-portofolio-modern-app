@@ -1,0 +1,29 @@
+{
+  "name": "ASTA",
+  "role": "Front-End Developer",
+  "bio": "Saya menjembatani kesenjangan antara desain dan fungsionalitas. Sebagai Frontend Developer, saya membangun aplikasi web interaktif yang berpusat pada pengguna, dengan fokus pada performa, responsivitas, dan standar web modern.",
+  "avatar": "/assets/img/avatar.jpg",
+  "email": "aqilastaghina18@gmail.com",
+  "social": {
+    "github": "https://github.com/MuhammadAqilAstagina",
+    "linkedin": "https://www.linkedin.com/in/muhammad-aqil-astagina-857604260/",
+    "instagram": "https://www.instagram.com/astaa.g/",
+    "x": "https://x.com/Astaagg/"
+  },
+  "skills": ["TypeScript", "React", "Next.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Docker", "Git", "Python", "Figma", "MySql", "Laravel", "PHP", "Propmpt Engginer"],
+  "experiences": [
+    {
+      "company": "HIMADITI",
+      "role": "Peneliti, Pengembang, dan Teknologi",
+      "period": "2024 - 2025",
+      "description": "Litbangtek berfokus pada riset, ide baru, dan pengembangan teknologi untuk mendukung kompetensi mahasiswa D3 Teknik Informatika."
+    }
+  ],
+  "education": [
+    {
+      "school": "University Amikom Yogyakarta",
+      "degree": "D3 Teknik Informatika",
+      "period": "2024 - Now"
+    }
+  ]
+}
